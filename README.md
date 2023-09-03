@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan Sosulski</h1>
 
-- 👨‍💻 **Junior Software Engineer C++**
+- 👨‍💻 **Software Engineer C++/Qt**
 
 - 📚 **Telecommunication Engineering student at Warsaw University of Technology**
 
