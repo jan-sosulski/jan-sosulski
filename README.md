@@ -4,7 +4,7 @@
 
 - 📚 **Telecommunication Engineering student at Warsaw University of Technology**
 
-- 🏠 **Warsaw / Zielona Gora | Poland**
+- 🏠 **Warsaw / Poznan | Poland**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
