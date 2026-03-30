@@ -2,9 +2,9 @@
 
 - 👨‍💻 **Software Engineer C++/Qt**
 
-- 📚 **Telecommunication Engineering student at Warsaw University of Technology**
+- 🎓 **Master’s degree in Telecommunications Engineering (ICT & Cybersecurity), Warsaw University of Technology**
 
-- 🏠 **Warsaw / Poznan | Poland**
+- 📍 **Warsaw / Poznan / Remote | Poland**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
