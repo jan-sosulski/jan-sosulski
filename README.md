@@ -7,17 +7,15 @@
 - 📍 **Warsaw / Poznan / Remote | Poland**
 
 <h3 align="left">Connect with me:</h3>
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://linkedin.com/in/jan-krzysztof-sosulski" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linkedin/linkedin-original.svg" height="40" />
+<p align="left" style="display:inline-block;">
+  <a href="https://linkedin.com/in/jan-krzysztof-sosulski">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/jan.sosulski" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" />
+  <a href="https://instagram.com/jan.sosulski">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
   </a>
-</div>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
